@@ -1,0 +1,6 @@
+endpoint: https://eu1.prisma.sh/sulla2357-7dde91/Outstagram/dev
+datamodel: datamodel.prisma
+
+generate:
+  - generator: javascript-client
+    output: ./generated/prisma-client/
