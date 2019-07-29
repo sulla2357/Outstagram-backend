@@ -1,2 +1,2 @@
-# Outstagram
+# Outstagram backend
 Instagram clone
